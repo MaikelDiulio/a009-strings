@@ -5,6 +5,7 @@ A partir da frase a seguir, faça o que se pede
 ```
 Jorge tem uma casa verde e com portão azul, com os dizeres: "BOAS VINDAS, mas não deixe o gato sair"
 ```
+${novaFrase1.includes("verde") && novaFrase1.includes("laranja")}
 
 a) Crie uma `const` no seu código para guardar a frase (com aspas e tudo);
 
