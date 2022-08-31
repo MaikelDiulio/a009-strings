@@ -1,6 +1,6 @@
 # Exercício 1
-
-Faça um programa que pergunte ao usuário seu nome e suas três comidas favoritas. Em seguida, Imprima no console a seguinte mensagem:
+Faça um programa que pergunte ao usuário seu nome e suas três comidas favoritas. Em seguida, Imprima no console a segui
+nte mensagem:
     
     ```
     Estas são as comidas favoritas de nomeDoUsuario
